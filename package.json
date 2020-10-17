@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Samaritan89/test-demo#readme",
   "devDependencies": {
     "jest": "^26.5.3"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
   }
 }
