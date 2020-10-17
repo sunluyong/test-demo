@@ -19,15 +19,20 @@
     "url": "https://github.com/Samaritan89/test-demo/issues"
   },
   "homepage": "https://github.com/Samaritan89/test-demo#readme",
-  "devDependencies": {
-    "@types/jest": "^26.0.14",
-    "jest": "^26.5.3"
-  },
   "dependencies": {
+    "axios": "^0.20.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
     "@babel/core": "^7.12.3",
     "@babel/preset-env": "^7.12.1",
+    "@babel/preset-react": "^7.12.1",
     "@babel/preset-typescript": "^7.12.1",
-    "axios": "^0.20.0",
-    "babel-jest": "^26.5.2"
+    "@types/jest": "^26.0.14",
+    "babel-jest": "^26.5.2",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.5",
+    "jest": "^26.5.3"
   }
 }
